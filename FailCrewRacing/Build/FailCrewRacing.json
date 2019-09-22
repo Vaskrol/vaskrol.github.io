@@ -1,0 +1,16 @@
+{
+"companyName": "Fancy Hat",
+"productName": "FailCrewRacing",
+"productVersion": "0.1",
+"dataUrl": "FailCrewRacing.data.unityweb",
+"wasmCodeUrl": "FailCrewRacing.wasm.code.unityweb",
+"wasmFrameworkUrl": "FailCrewRacing.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
