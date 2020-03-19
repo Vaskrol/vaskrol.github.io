@@ -28,7 +28,7 @@ var config = {
   // The URL that will be the default view that will initially load
   // For example, this could a list view or a could be a specific view
   // like a single page.
-  defaultView: 'games',
+  defaultView: 'posts',
 
   // These are the types of content to load. Each type name is a directory or
   // folder where the files, pages or posts are located. Each type has a list
@@ -36,8 +36,8 @@ var config = {
   types: [
     {
     // for example, layouts/post-list.html
-    name: 'games',
-      layout: { list: 'game-list', single: 'game' },
+    name: 'posts',
+      layout: { list: 'post-list', single: 'post' },
     },
     {
       name: 'pages',
