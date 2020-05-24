@@ -1,0 +1,16 @@
+{
+"companyName": "Fancy Hat",
+"productName": "StarFleet",
+"productVersion": "0.1",
+"dataUrl": "StarFleet.data.unityweb",
+"wasmCodeUrl": "StarFleet.wasm.code.unityweb",
+"wasmFrameworkUrl": "StarFleet.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
