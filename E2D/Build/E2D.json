@@ -1,0 +1,16 @@
+{
+"companyName": "FancyHat",
+"productName": "E2D",
+"productVersion": "0.1",
+"dataUrl": "E2D.data.unityweb",
+"wasmCodeUrl": "E2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "E2D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
