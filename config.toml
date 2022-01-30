@@ -1,0 +1,4 @@
+baseURL = 'http://vaskrol.github.io/'
+languageCode = 'en-us'
+title = 'Vaskrol's nest'
+theme = \"npq-hugo\"
